@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Akshansh 👋
 
 # 💫 About Me:
 🔭 I’m currently working on keeping cloud infra stable, building pipelines, debugging production issues, and making sure logs don’t blow up disks at 3AM.<br><br>👯 I’m looking to collaborate on DevOps/SRE projects, automation scripts, infra cost optimization, and anything that improves system reliability and security.<br><br>🤝 I’m looking for help with advanced cloud architecture, performance tuning at scale, and building rock-solid monitoring/alerting setups.<br><br>🌱 I’m currently learning deep AWS internals, observability tooling, and smarter automation to reduce manual ops work.<br><br>💬 Ask me about Linux, Ubuntu troubleshooting, AWS logs/CloudTrail, VM's,  disk & storage issues, and real-world production firefighting.<br><br>⚡ Fun fact I trust `df -h` and logs more than any dashboard.<br><br>🛠️ Tech I vibe with Linux • AWS • Bash • Monitoring/Logs • Datadog • Infra debugging<br><br>🚀 Goal - Build systems that don’t wake me up at night.<br>
