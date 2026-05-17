@@ -36,25 +36,31 @@
 </ul>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshansh-chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/not_akshansh.chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="mailto:madmax.ak000@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/thelogos/DevIcons/master/Icons/Gmail.svg" alt="Email" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://linkedin.com/in/akshansh-chauhan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/not_akshansh.chauhan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:madmax.ak000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
+  </a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r,php,kotlin,bash,aws,gcp,oracle,grafana,datadog,terraform,git,github,githubactions,gitlab,bitbucket,mongodb,mysql,postgres,apache&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r,php,kotlin,bash,aws,gcp,grafana,terraform,git,github,githubactions,gitlab,bitbucket,mongodb,mysql,postgres&theme=dark" alt="Skills" />
   </a>
-</p>
+</div>
 
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## ✍️ Random DevOps Quote
+## ✍️ Random Dev Quote
 > "Intelligence is the ability to avoid doing work, yet getting the work done." — *Linus Torvalds*
-<br/>
+<br/> 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
