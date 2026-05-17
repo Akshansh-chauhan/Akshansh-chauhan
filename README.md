@@ -56,7 +56,7 @@
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r&theme=dark" /><br/>
-    <img src="https://skillicons.dev/icons?i=bash,aws,azure,gcp,k8s,docker&theme=dark" /><br/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,gcp,k8s,docker&theme=dark" /><br/>
     <img src="https://skillicons.dev/icons?i=grafana,prometheus,terraform,git,github,githubactions&theme=dark" /><br/>
     <img src="https://skillicons.dev/icons?i=gitlab,bitbucket,mongodb,mysql,postgres&theme=dark" />
   </a>
