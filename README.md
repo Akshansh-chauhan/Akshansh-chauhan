@@ -36,16 +36,20 @@
 </ul>
 
 <h3 align="left">Connect with me:</h3>
-<div align="left">
+
+<p align="left">
   <a href="https://linkedin.com/in/akshansh-chauhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
   </a>
+
   <a href="https://instagram.com/not_akshansh.chauhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="55" />
   </a>
-  <a href="mailto:madmax.ak000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=madmax.ak000@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
   </a>
+</p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -59,7 +63,9 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## ✍️ Random Dev Quote
-> "Intelligence is the ability to avoid doing work, yet getting the work done." — *Linus Torvalds*
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&category=devops)
+
 <br/> 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
