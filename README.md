@@ -55,7 +55,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r,php,kotlin,bash,aws,gcp,grafana,terraform,git,github,githubactions,gitlab,bitbucket,mongodb,mysql,postgres&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r&theme=dark" /><br/>
+    <img src="https://skillicons.dev/icons?i=php,kotlin,bash,aws,gcp&theme=dark" /><br/>
+    <img src="https://skillicons.dev/icons?i=grafana,terraform,git,github,githubactions&theme=dark" /><br/>
+    <img src="https://skillicons.dev/icons?i=gitlab,bitbucket,mongodb,mysql,postgres&theme=dark" />
   </a>
 </div>
 
