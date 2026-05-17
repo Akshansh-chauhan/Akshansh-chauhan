@@ -1,23 +1,115 @@
-## Hi there, I'm Akshansh 👋
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="left" style="width: 100%" />
+</div>   
 
-# 💫 About Me:
-🔭 I’m currently working on keeping cloud infra stable, building pipelines, debugging production issues, and making sure logs don’t blow up disks at 3AM.<br><br>👯 I’m looking to collaborate on DevOps/SRE projects, automation scripts, infra cost optimization, and anything that improves system reliability and security.<br><br>🤝 I’m looking for help with advanced cloud architecture, performance tuning at scale, and building rock-solid monitoring/alerting setups.<br><br>🌱 I’m currently learning deep AWS internals, observability tooling, and smarter automation to reduce manual ops work.<br><br>💬 Ask me about Linux, Ubuntu troubleshooting, AWS logs/CloudTrail, VM's,  disk & storage issues, and real-world production firefighting.<br><br>⚡ Fun fact I trust `df -h` and logs more than any dashboard.<br><br>🛠️ Tech I vibe with Linux • AWS • Bash • Monitoring/Logs • Datadog • Infra debugging<br><br>🚀 Goal - Build systems that don’t wake me up at night.<br>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Akshansh 👋
+<h3 align="left"> DevOps Engineer | SRE | Cloud Infrastructure Firefighter </h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshansh-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="Akshansh-chauhan" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not_akshansh.chauhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshansh-chauhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madmax.ak000@gmail.com) 
+- 🔭 I’m currently working on **keeping cloud infra stable, building pipelines, debugging production issues, and ensuring logs don’t blow up disks at 3 AM.**
+- 🌱 I’m currently learning **deep AWS internals, observability tooling, and smarter automation to reduce manual ops work.** - 👯 I’m looking to collaborate on **DevOps/SRE projects, automation scripts, infra cost optimization, and system reliability.** - 🤝 I’m looking for help with **advanced cloud architecture, performance tuning at scale, and building rock-solid monitoring/alerting setups.**
+- 💬 Ask me about **Linux, Ubuntu troubleshooting, AWS logs/CloudTrail, VMs, disk & storage issues, and real-world production firefighting.** - ⚡ Fun fact **I trust `df -h` and raw logs more than any dashboard.**
+- 🚀 Goal **Build systems that don’t wake me up at night.**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akshansh-chauhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Akshansh-chauhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshansh-chauhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akshansh-chauhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=Akshansh-chauhan&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 
----
-[![](https://visitcount.itsvg.in/api?id=Akshansh-chauhan&icon=0&color=6)](https://visitcount.itsvg.in)
+# <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
-<!-- Ak -->
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in advanced Cloud Architecture.</li>
+  <li>Mastering enterprise-level system observability and alerting workflows.</li>
+</ul>
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/akshansh-chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/not_akshansh.chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="mailto:madmax.ak000@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="right">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r,php,kotlin,bash" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,oracle,grafana,datadog,terraform" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,apache" />
+  </a>
+</p>
+
+<br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/> 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Akshansh-chauhan">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshansh-chauhan&count_private=true&show_icons=true&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&include_all_commits=true&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&icon_color=ff3333" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Akshansh-chauhan">
+          <img align="center" src="https://streak-stats.demolab.com?user=Akshansh-chauhan&background=0f0f0f&fire=ff4444&ring=ff3333&sideNums=ff6666&sideLabels=ff6666&dates=ff8888&currStreakNum=ff2222" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀɴɢᴜᴀɢᴇ Uꜱᴇᴅ</strong></h3>
+      <p align="center">
+         <a href="https://github.com/Akshansh-chauhan">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshansh-chauhan&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&show_owner=true&icon_color=ff3333&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Akshansh-chauhan">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Akshansh-chauhan&limit=2&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="Activity Graph" width="40" />Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshansh-chauhan&bg_color=0f0f0f&color=ff0000&line=cc0000&point=ff9999&area=false&hide_border=false" style="border-radius: 15px;">
+</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Akshansh-chauhan/Akshansh-chauhan/output/snake.svg" alt="Snake animation" />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
