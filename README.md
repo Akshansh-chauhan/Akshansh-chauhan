@@ -46,7 +46,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="55" />
   </a>
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=madmax.ak000@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akshanshchauhan04@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="55" />
   </a>
 </p>
