@@ -58,8 +58,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r&theme=dark" /><br/>
     <img src="https://skillicons.dev/icons?i=linux,bash,aws,azure,gcp&theme=dark" /><br/>
     <img src="https://skillicons.dev/icons?i=k8s,docker,grafana,prometheus,terraform&theme=dark" /><br/>
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket&theme=dark" /><br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,mongodb,mysql,postgres&theme=dark" /><br/>
   </a>
 </div>
 
