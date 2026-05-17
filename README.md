@@ -9,8 +9,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshansh-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="Akshansh-chauhan" /> </p>
 
 - 🔭 I’m currently working on **keeping cloud infra stable, building pipelines, debugging production issues, and ensuring logs don’t blow up disks at 3 AM.**
-- 🌱 I’m currently learning **deep AWS internals, observability tooling, and smarter automation to reduce manual ops work.** - 👯 I’m looking to collaborate on **DevOps/SRE projects, automation scripts, infra cost optimization, and system reliability.** - 🤝 I’m looking for help with **advanced cloud architecture, performance tuning at scale, and building rock-solid monitoring/alerting setups.**
-- 💬 Ask me about **Linux, Ubuntu troubleshooting, AWS logs/CloudTrail, VMs, disk & storage issues, and real-world production firefighting.** - ⚡ Fun fact **I trust `df -h` and raw logs more than any dashboard.**
+- 🌱 I’m currently learning **deep AWS internals, observability tooling, and smarter automation to reduce manual ops work.**
+- 👯 I’m looking to collaborate on **DevOps/SRE projects, automation scripts, infra cost optimization, and system reliability.**
+- 🤝 I’m looking for help with **advanced cloud architecture, performance tuning at scale, and building rock-solid monitoring/alerting setups.**
+- 💬 Ask me about **Linux, Ubuntu troubleshooting, AWS logs/CloudTrail, VMs, disk & storage issues, and real-world production firefighting.**
+- ⚡ Fun fact **I trust `df -h` and raw logs more than any dashboard.**
 - 🚀 Goal **Build systems that don’t wake me up at night.**
 
 <br/>
@@ -33,28 +36,25 @@
 </ul>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/akshansh-chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/not_akshansh.chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="mailto:madmax.ak000@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+<a href="mailto:madmax.ak000@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/thelogos/DevIcons/master/Icons/Gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="right">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r,php,kotlin,bash" />
-    <img src="https://skillicons.dev/icons?i=aws,gcp,oracle,grafana,datadog,terraform" />
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,apache" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,r,php,kotlin,bash,aws,gcp,oracle,grafana,datadog,terraform,git,github,githubactions,gitlab,bitbucket,mongodb,mysql,postgres,apache&theme=dark" />
   </a>
 </p>
 
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br/> 
+## ✍️ Random DevOps Quote
+> "Intelligence is the ability to avoid doing work, yet getting the work done." — *Linus Torvalds*
+<br/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
